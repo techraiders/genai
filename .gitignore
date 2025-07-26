@@ -1,0 +1,7 @@
+*.db
+*.jsonl
+*.yaml
+*.json
+*.xlsx
+slow_responses.csv
+*-checkpoint*
